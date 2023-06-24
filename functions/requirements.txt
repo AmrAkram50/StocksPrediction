@@ -1,1 +1,11 @@
 firebase_functions~=0.1.0
+google-cloud-storage
+firebase
+pandas
+keras
+yfinance
+datetime
+sklearn
+numpy
+matplotlib
+firebase_admin
