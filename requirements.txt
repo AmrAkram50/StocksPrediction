@@ -1,0 +1,10 @@
+google-cloud-storage
+firebase
+pandas
+keras
+yfinance
+datetime
+sklearn
+numpy
+matplotlib
+firebase_admin
